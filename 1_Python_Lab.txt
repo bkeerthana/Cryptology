@@ -1,0 +1,104 @@
+1. # The following line won't run because of a syntax error 
+     print("hi)
+
+2. # Exercise 2
+''' The following lines won't run properly,
+    even if the syntax error in the line above is corrected,
+    because of a run-time error '''
+print(hello)
+
+3. #  Display a string (greeting message) directly 
+
+4. # Display the contents of a string variable
+
+5. # Display the string which contains single quotes 
+     Ex: Indian's
+
+6. # Display the string which contains Double Quotes 
+     Ex: Students,"Welcome to SOIS". 
+
+6. Read two numbers in (user input) and store as num1 and num2, Calculate the sum, difference, product, Quotient, reminder, power
+
+7. check the value of num1 is integer or not? 
+
+8. convert into integer 
+
+9. Find the datatype for the variable num1 and num2. 
+
+10. read the float value from the user and print the number rounded to 2 decimal places
+
+11. read the float value from the user and print the absolute value 
+
+12. Store different type values in the variabale 
+   String 
+   numeric 
+   complex 
+   list 
+   dictionary 
+   set 
+   tuple 
+
+13. Find the data type for the above variables 
+
+14. # Display the number of letters in the string
+    greeting = "Welcome to Python Programming"
+
+15. read the first name and last name from the user and combine first name and last name. combine name and greeting message
+
+16. Display the string with space 
+    Ex: firstname lastname 
+
+17. Display first two characters from the name 
+
+18. Display last three characters from the name 
+
+19. Display 3rd character to last character 
+
+20. Display 3rd to 5th character 
+
+21. Create a list of food with two elements.
+
+22. Add one more to the food list using .append()
+
+23. Add two more food strings to food using .extend()
+
+24. Count total number of items in the list 
+
+25. Print the first two items in food using slicing notation
+
+26. Print the last item in food using index notation
+
+27. Debug: Program is to check the given number is odd or even 
+
+number = input("Enter a number: ")
+x = str(number)/2
+if x == 0
+    print("The number is Even.")
+else
+    print("The number is Odd.")
+
+28. Debug: Program is to convert centigrade to Fahrenheit
+c = input("Enter temperature in Centigrade: ")
+f = 9*(int(c)/5 +32
+print("Temperature in Fahrenheit is: ", f)
+
+29. Debug: 
+int = int(input("Enter the count of numbers: "))
+i = 0
+summ= 0
+for i in range(count):
+    x = int(input("Enter an integer: "))
+    sum = sum + x
+    avg = sum/count
+
+print("The average is: ", avg)
+
+30. Prove : strings is not mutable 
+            lists are mutable 
+
+
+==========================================================================
+Deadline 14.08.2024
+==========================================================================
+
+
