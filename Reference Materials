@@ -1,0 +1,8 @@
+Books: 
+Information Security: Principles and Practice by Mark Stamp
+Code Book by Simon singh
+
+Links 
+
+kerckhoff Principle:
+https://www.petitcolas.net/kerckhoffs/index.html
