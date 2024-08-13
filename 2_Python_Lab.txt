@@ -1,0 +1,41 @@
+String Operations in Python 
+
+1. Find the length of the string 
+2. Slice the string as per your choice 
+3. Concatenate two strings 
+4. Convert in to lower case in to uppercase character 
+5. Convert upper case into lower case characters
+6. convert the character into Unicode ( Ascii values)
+7. convert Unicode into character 
+8. Check whether the given "substring" exists in the string
+9. Replace the character 'k' with 'h'
+10. Pad the string with "x" at the end
+11. remove leading and trailing whitespace or specified characters from the string
+12. split the given string in to group of five characters 
+13. count total number of words 
+14. Find the frequency of each characters in the string 
+
+STDIN and File operators 
+15. get the file name from the user 
+16. check the file exist or not 
+
+Looping and File handling 
+17. read the contents from the file 
+18. reverse the contents from the file 
+19. Write into the file 
+
+Math operations 
+20. convert Frequency in to percentage (continuation of 12th Question) 
+21. Perform modular arithmetic operation 
+22. Find the prime numbers 
+    check the given number is prime or not 
+    print the prime numbers with the given range 
+23. Check the given two numbers are co prime or not 
+24. find the factors for the given number ( can use python library)
+25. generate 10 random numbers 
+26. Explore : Miller-Rabin Test (pen paper method)
+
+  “Don’t worry about failures, worry about the chances you miss when you don’t even try.”
+                              – JACK CANFIELD
+
+
