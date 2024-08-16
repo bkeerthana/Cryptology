@@ -1,0 +1,40 @@
+Cryptology 
+    - Security Essentials 
+         - need of security 
+         - principles of security 
+         - evolution of security 
+         - security models 
+                - CIA
+                    - prevention 
+                    - countermeasure  
+                - PPT
+                - AAA
+                - UFS
+         - basic terms 
+               - cryptography 
+               - cryptanalysis 
+               - cryptology 
+               - threat
+               - vulnerability 
+               - attack 
+                   - passive
+                          
+                   - active 
+             
+    - Cryptography
+           - Characteristic of cryptographic systems 
+           - Taxonomy of cryptographic algorithms 
+           - Cipher algorithms (Flow)
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher 
+
+           - Shift cipher 
+                  Rot 13 
+                  Caser cipher 
+           - Multiplicative cipher 
+ 
+    - Cryptanalysis 
+          - Brute Force 
+          - Frequency Analysis 
