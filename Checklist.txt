@@ -1,8 +1,14 @@
 Cryptology 
     - Security Essentials 
          - need of security 
-         - principles of security 
+
+         - principles/Aspects  of security
+                - Prevention 
+                - Detection 
+                - Counter measure 
+
          - evolution of security 
+         
          - security models 
                 - CIA
                     - prevention 
@@ -10,6 +16,8 @@ Cryptology
                 - PPT
                 - AAA
                 - UFS
+                - NSTISSC Security Model
+
          - basic terms 
                - cryptography 
                - cryptanalysis 
@@ -33,8 +41,33 @@ Cryptology
            - Shift cipher 
                   Rot 13 
                   Caser cipher 
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher 
+                     - Brute Force 
+                     - Frequency Analysis
+
            - Multiplicative cipher 
- 
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher 
+                     - Brute Force 
+                     - Frequency Analysis 
+
+           - Affine Cipher 
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher
+                    - Brute Force 
+                    - Frequency Analysis 
+                    - Known plaintext Attack 
+                    - Chosen Cipher Text attack
     - Cryptanalysis 
           - Brute Force 
           - Frequency Analysis 
+          - Known plaintext Attack 
+          - Chosen Cipher Text attack
+           
