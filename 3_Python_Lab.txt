@@ -1,0 +1,40 @@
+
+1. Write a python script to encrypt the string using Caesar cipher.
+2. Write a Python script to Modify the above script to shift cipher based on user choice. 
+3. Write a Python script to convert cipher text into uppercase characters and split the cipher into group of 5 of characters.
+4. Write a Python program to Find the histogram for each characters. 
+5. Write a Python script to read the contents from the file. 
+6. Write a Python script to encrypt the contents from the file. 
+7. Do validation to the python program (2) 
+   - not to accept special characters 
+   - not to accept numeric values 
+   - not to accept empty value 
+   - accept only string
+   - string should be lowercase if not convert the case 
+8. Write a Python program to checks if two given strings are anagrams of each other.
+example: mug, gum
+         cork, rock
+         note, tone
+9. Write a Python program to check the given string is palindrome or not
+Do not use built in functions 
+
+Example: MADAM 
+         RACECAR
+         LEVEL
+         CIVIC
+                
+10. Write a Python program to check if a substring is present in a given string.
+Example: Understand -- stand
+ 
+11. Explore string module 
+   import the string module in your python script. 
+   print all the lowercase characters
+   print all the uppercase characters 
+   print all the lowercase and uppercase characters
+   print all the digits 
+   print all the punctuation symbols  
+   count the total number of punctuation symbols 
+
+Programming is a skill best acquired by practice and example rather than from books   -- unknown 
+
+The only way to do great work is to love what you do   --Steve Jobs
