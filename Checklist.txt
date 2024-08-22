@@ -6,6 +6,8 @@ Cryptology
                 - Prevention 
                 - Detection 
                 - Counter measure 
+                       - Proactive 
+                       - Reactive
 
          - evolution of security 
          
@@ -65,9 +67,17 @@ Cryptology
                     - Frequency Analysis 
                     - Known plaintext Attack 
                     - Chosen Cipher Text attack
+
     - Cryptanalysis 
-          - Brute Force 
-          - Frequency Analysis 
+    Assume :
+Cryptanalyst has access to black-box implementation of the block cipher with secret key K.
+          - Cipher text only attack
+              - Brute Force 
+              - Frequency Analysis 
           - Known plaintext Attack 
+              Differential Cryptanalysis
           - Chosen Cipher Text attack
+              Differential Cryptanalysis
+          - Chosen Plain text attack
+              Differential Cryptanalysis
            
