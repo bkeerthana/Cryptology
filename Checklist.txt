@@ -39,7 +39,14 @@ Cryptology
                   Decryption 
                   Key space
                   breaking the cipher 
-
+           - Substiution cipher
+                  - Mono Alphabetic 
+                       - Shift 
+                       - Affine 
+                       - Multiplicative 
+                       - Vatsayana 
+                  - Poly Alphabetic
+                       
            - Shift cipher 
                   Rot 13 
                   Caser cipher 
@@ -67,6 +74,21 @@ Cryptology
                     - Frequency Analysis 
                     - Known plaintext Attack 
                     - Chosen Cipher Text attack
+
+            - Atbash Cipher 
+                   Encryption 
+                   Decryption 
+                   Keyspace 
+                   breaking the cipher 
+                          
+            - Vatsyayana Cipher 
+                   Encryption 
+                   Decryption 
+                   Keyspace 
+
+            - Transposition Cipher 
+                - Rail fence 
+
 
     - Cryptanalysis 
     Assume :
