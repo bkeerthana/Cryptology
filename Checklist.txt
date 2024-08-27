@@ -88,7 +88,22 @@ Cryptology
 
             - Transposition Cipher 
                 - Rail fence 
+                      Keyword based 
+                      With out keyword 
 
+                - Columnar Trasnsposition
+                      Keyword based 
+                      Without keyword 
+
+                - Double Columnar Transposition 
+
+                - Rail Fence Vs. Columnar Transposition (Both are different) 
+              
+                - Breaking the cipher 
+                   Frequency analysis 
+                   identify the cipher (s or t) 
+                   identify the size of the key 
+                   Anagram 
 
     - Cryptanalysis 
     Assume :
