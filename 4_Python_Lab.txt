@@ -1,0 +1,26 @@
+1. Write a Python program to reverse the content of the string.
+Do not use built in 
+
+2. Create a program that performs basic string compression using the counts of repeated characters. For example, the string “aabcccccaaa” would become “a2b1c5a3”.
+
+3. Get the Caesar cipher from the user Decrypt the cipher 
+
+4. Get the cipher encrypted using shift cipher. Identify the key used to encrypt using brute force 
+   ie all the values in the key space 
+
+5. Find the k value , Provided cipher text and plain text 
+
+6. Encrypt and decrypt the string using Atbash cipher 
+
+7. Encrypt and decrypt using Affine cipher 
+        add validation
+          
+
+The harder you work for something, the greater you will feel when you achieve it.
+Do not limit your challenges challenge your limit
+
+
+
+
+
+
