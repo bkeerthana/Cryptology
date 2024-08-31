@@ -30,6 +30,8 @@ Cryptology
                    - passive
                           
                    - active 
+               - Zero day 
+               - Security through obsurity 
              
     - Cryptography
            - Characteristic of cryptographic systems 
@@ -105,6 +107,14 @@ Cryptology
                    identify the size of the key 
                    Anagram 
 
+                - Product Cipher 
+
+                - qualities of good cipher 
+                     - confusion 
+                     - diffusion 
+
+                 - Modern cipher 
+                     - Stream Vs Block cipher 
     - Cryptanalysis 
     Assume :
 Cryptanalyst has access to black-box implementation of the block cipher with secret key K.
