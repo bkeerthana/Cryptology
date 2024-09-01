@@ -107,11 +107,15 @@ Cryptology
                    identify the size of the key 
                    Anagram 
 
-                - Product Cipher 
-
-                - qualities of good cipher 
+                 - qualities of good cipher 
                      - confusion 
                      - diffusion 
+
+                 - Vigenere cipher 
+                 - Vernam cipher 
+
+                 - Product Cipher 
+                      - ADFGVX cipher
 
                  - Modern cipher 
                      - Stream Vs Block cipher 
