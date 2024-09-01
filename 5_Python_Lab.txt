@@ -1,0 +1,25 @@
+1. Write a Python Program to perform brute force attack on the cipher text “dvvkzecfssprkkve"
+
+2. Write a Python program to use brute force attack to decipher the message. 
+Assume Affine cipher was used and "ab" is encrypted as "GL". Find the value of keys. 
+
+XPALASXYFGFUKPXUSOGEUTKCDGFXANMGNVS
+
+
+3. Encrypt the plain text using Rail Fence cipher 
+
+
+4. Decrypt the cipher using Rail Fence
+
+AAIUJ SIHBE KTEAO TEADE SNUTF EAEMR TAHSA
+RHROA YHNFO AITTE EHCBO FVCAT RNMNS NUTFE
+RASHL WFHLN HIUJS IHTKS OEHNI FISAE FNTIG
+RMRSO LSTIS OKIEH PEOE
+
+======================================================================================
+Never stop trying 
+Never stop believe
+Never give up
+Your day will come.
+You only fail when you stop trying. 
+======================================================================================
