@@ -49,6 +49,11 @@ Cryptology
                        - Multiplicative 
                        - Vatsayana 
                   - Poly Alphabetic
+                       - Stream 
+                        - Vigenere cipher 
+                        - Vernam cipher
+                       - Block
+                        - Hill cipher
                        
            - Shift cipher 
                   Rot 13 
