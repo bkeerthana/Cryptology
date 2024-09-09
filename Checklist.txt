@@ -43,18 +43,25 @@ Cryptology
                   Key space
                   breaking the cipher 
            - Substiution cipher
+
                   - Mono Alphabetic 
                        - Shift 
                        - Affine 
                        - Multiplicative 
                        - Vatsayana 
-                  - Poly Alphabetic
+
+                 - Poly Alphabetic
                        - Stream 
                         - Vigenere cipher 
                         - Vernam cipher
+                 
                        - Block
                         - Hill cipher
-                       
+                               Encryption 
+                               Decryption 
+                                    calculating modulo inverse
+                                    Refer: https://www.youtube.com/watch?v=YwaQ4m1eHQo
+
            - Shift cipher 
                   Rot 13 
                   Caser cipher 
