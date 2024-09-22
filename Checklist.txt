@@ -132,6 +132,20 @@ Cryptology
 
                  - Modern cipher 
                      - Stream Vs Block cipher 
+After Sessional 
+                - Stream Cipher 
+                    -Basic Idea 
+                    -Keystream 
+                         - Design consideration 
+                         - check the randomness 
+                               - Golomb Randomness test 
+                                     - Frequenct test 
+                                     - Run test 
+                                     - Autocorrelation test 
+                    -keystream generator 
+                         - LFSR
+                         - RC4 
+                    
     - Cryptanalysis 
     Assume :
 Cryptanalyst has access to black-box implementation of the block cipher with secret key K.
