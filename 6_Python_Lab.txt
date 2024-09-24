@@ -1,0 +1,13 @@
+1. Assume you intercepted the following ciphertext. Using a statistical attack, find the plaintext
+
+"XLILSYWIMWRSAJSVWEPIJSVJSYVQMPPMSRHSPPEVWMXMWASVX-LQSVILYVVCFIJSVIXLIWIPPIVVIGIMZIWQSVISJJIVW" 
+
+2. Write a Python script to encrypt using Rail Fence (Zig zag ) with three rows and with key (ONE).
+
+3. Write a python script to encrypt columnar transposition 
+
+4. Write a Python script to decrypt Rail Fence Cipher 
+
+===============================================================================
+"It does not matter how slowly you go so long as you do not stop." —Confucius
+===============================================================================
