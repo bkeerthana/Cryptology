@@ -135,7 +135,15 @@ Cryptology
 After Sessional 
                 - Stream Cipher 
                     -Basic Idea 
-                    -Keystream 
+                    -Keystream (Random Numbers)
+                         - True Random Number Generator 
+                                   - Infinite
+                                   - Applications: sessionkey
+                         - Pseudo Random Number Generator 
+                                   - Finite
+                                   - Examples : LFSR, RC4 
+                                   - Types : Syn and Asyn
+                                   - Applications: Encryption, Key Generation 
                          - Design consideration 
                          - check the randomness 
                                - Golomb Randomness test 
