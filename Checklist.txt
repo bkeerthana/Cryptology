@@ -152,7 +152,22 @@ After Sessional
                                      - Autocorrelation test 
                     -keystream generator 
                          - LFSR
-                         - RC4 
+                         - RC4 (Explore) 
+                         - Correlation Attack 
+
+                     - DES 
+                        - Avalanche Effect 
+                        - Feistel Cipher
+                        - Attacks 
+                            - Generic 
+                                not dependent on any other primitive 
+                                Brute Force 
+                            - Non-Generic 
+                              a strategy that takes advantage of a cryptographic 
+                                Known-plain text attack 
+
+algorithm's specific weaknesses
+                        
                     
     - Cryptanalysis 
     Assume :
