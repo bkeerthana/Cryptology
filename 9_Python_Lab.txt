@@ -1,0 +1,20 @@
+
+1. Write a python script to get the binary values from the user and perform XOR operation. 
+
+2. Write a Python script that implements a simple 4-bit LFSR. The initial state of the register and the tap positions should be user inputs. 
+   Simulate 10 steps of the LFSR, displaying the state of the register at each step.
+
+3. Write a report on attacks on LFSR. Explain any one attack in detail. 
+
+
+BONUS POINT:
+4.  write a python script to break hill cipher (2X2) using known plain text attack. 
+	Known Plaintext: "MEET"
+	Corresponding Ciphertext: "URRG"
+
+
+=========================================================================================================================
+                                                                                                    
+“Dream, Dream, Dream. Dreams transform into thoughts and thoughts result in action.”  - Dr. APJ 
+=========================================================================================================================
+
