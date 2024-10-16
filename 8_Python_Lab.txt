@@ -1,0 +1,19 @@
+1. Write a Python script that takes two integers as input and calculates their GCD using the Euclidean algorithm. 
+   Based on the result, determine whether these numbers are co-prime.
+   If they are co-prime, print a message indicating that they can be used in cryptographic key generation; otherwise, print a message that they are not suitable.
+
+2. Write a python script to take two integer values (number (n) and modulo (m)) from the user and find the modular inverse using extended Euclidean algorithm. 
+
+3. Write a Python script that generates a random binary number of length 100. The output should be a string of 100 binary digits (0s and 1s).
+   After generating the binary sequence, implement a function to check whether any subsequence of digits repeats itself within the sequence.
+
+4. Write a Python script that performs the Golomb test to the numbers provided below. 
+                   101011001010
+                   111111000000
+   The script should
+          - Perform and print the results of the three Golomb tests on the sequence.
+          - Print a message indicating whether the sequence passes the Golomb tests or not.
+
+================================================================================================
+        "Always do your best. What you plant now, you will harvest later." —Og Mandino
+================================================================================================
