@@ -1,0 +1,11 @@
+1. Write a Python script to list all the prime numbers from 1 to 100 using Sieve of Eratosthenes.
+
+2. Write a Python script to implement RSA algorithm using build in functions (both encryption and decryption)
+
+3. Write a Python script to implement RSA algorithm with out using build in functions (both encryption and decryption)
+
+------------------------------------------------------------------------------------------
+“Learning is never done without error, and defeat ” – Vladimir Lenin
+“There is no substitute for hard work.” – Thomas Alva Edison
+“You cannot change your future, but you can change your habits, and surely your habits will change your future.”– A.P.J. Abdul Kalam
+---------------------------------------------------------------------------------------------
