@@ -165,13 +165,66 @@ After Sessional
                             - Non-Generic 
                               a strategy that takes advantage of a cryptographic 
                                 Known-plain text attack 
+                         - problems with DES 
+                         - 2DES
+                             Attacks on 2DES 
+                         - 3DES 
 
-algorithm's specific weaknesses
+                       - AES 
+                           
+
+                       - Mode of operation 
+                                
+                                ECB Mode
+                                CBC Mode 
+                                CFB Mode 
+                                OFB Mode 
+                                CTR Mode 
+
+                        - Asymmetric Algorithms 
+                              Knapsack 
+                                   - Encryption 
+                                   - Decryption 
+                              RSA 
+                                   - Encryption 
+                                   - Decryption 
+                              DH Keyexchange 
+                              MITM in DH 
+
+                              PKI 
+                              Hashing 
+                                  - properties 
+                                  - Applications 
+                              Authentication 
+                                  - what you know 
+                                  - what you are 
+                                  - What you have 
+                             MAC 
+                             Digital Signature 
+                             Sieve Algorithm 
+
+                             Attacks on LFSR 
+                                        DH 
+
+                             how to calculate key space 
+                                  for shift cipher 
+                                      affine cipher 
+
+                             kerchofff principle 
+                             one way function 
+                             Avalanche effect 
+                             Threat 
+                             attack 
+                             vunerabilites 
+
+
+                                   
                         
                     
     - Cryptanalysis 
     Assume :
 Cryptanalyst has access to black-box implementation of the block cipher with secret key K.
+Taxonomy of cryptanalysis*
           - Cipher text only attack
               - Brute Force 
               - Frequency Analysis 
