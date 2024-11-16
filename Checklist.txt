@@ -203,6 +203,8 @@ After Sessional
                              MAC 
                              Digital Signature 
                              Sieve Algorithm 
+                            Kerberos 
+                            ZKP
 
                              Attacks on LFSR 
                                         DH 
