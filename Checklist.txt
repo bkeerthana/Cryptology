@@ -193,7 +193,8 @@ After Sessional
 
                               PKI 
                               Hashing 
-                                  - properties 
+                                  - 5 properties 
+                                      - Strong Vs Weak 
                                   - Applications 
                               Authentication 
                                   - what you know 
