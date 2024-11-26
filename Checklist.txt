@@ -238,3 +238,12 @@ Taxonomy of cryptanalysis*
           - Chosen Plain text attack
               Differential Cryptanalysis
            
+-------------------------------------------------------------------
+weightage
+-------------------------------------------------------------------
+Security Models                   - 1
+Traditional Encr/Decr             - 2
+Modern ciphers                    - 4 
+Cryptanalaysis                    - 2
+Authentication                    - 1 
+---------------------------------------------------------------------
